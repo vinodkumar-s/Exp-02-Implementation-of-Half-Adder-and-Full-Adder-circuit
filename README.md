@@ -61,6 +61,7 @@ endmodule
 ### Logic symbol & Truthtable
 HALF-ADDER:
 ![output](/truth%20table%20half.png)
+
 FULL-ADDER:
 ![output](/truth%20table%20adder.png)
 
@@ -76,6 +77,7 @@ full-adder
 ### TIMING DIAGRAM
 half-adder
 ![output](/waveform-half%20adder.png)
+
 full-adder
 ![output](/waveform-full%20adder.png)
 
